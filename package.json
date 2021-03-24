@@ -1,0 +1,22 @@
+{
+  "name": "wdiothingee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spriggsha/wdioThingee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spriggsha/wdioThingee/issues"
+  },
+  "homepage": "https://github.com/spriggsha/wdioThingee#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.2.3"
+  }
+}
